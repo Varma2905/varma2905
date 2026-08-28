@@ -143,7 +143,6 @@ class Gunavarman:
 
 ---
 
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
