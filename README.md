@@ -144,17 +144,6 @@ class Gunavarman:
 ---
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=varma2905&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varma2905&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
