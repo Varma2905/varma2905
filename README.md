@@ -165,26 +165,6 @@ class Gunavarman:
 
 ---
 
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/varma2905/varma2905/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 🧩 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=varma2905&theme=tokyonight" />
-
-</div>
-
----
-
 ## ⚡ Developer Philosophy
 
 <div align="center">
